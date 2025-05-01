@@ -1,1 +1,3 @@
+IMPORTANT: We could not get the boards to function properly during the build season; therefore, we don't recommend that you make these boards yourselves.
 
+This is the camera adapter board made by the electronics department of FRC Team 8561 during the 2025 season. The board's purpose is to carry MIPI CSI signals from our cameras to our coprocessor. Since there are numerous sources of interference within our robot, we decided against using standard ribbon cables, instead using HDMI cables, which provide the same differential impedance while also being shielded and more impact-resistant. The board includes ESD protection as well as overcurrent protection.
